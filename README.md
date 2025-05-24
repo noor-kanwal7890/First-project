@@ -1,4 +1,4 @@
 # First-project
-my first version control system project.
+Git & github project
 <br>
 aurthor - noor kanwal
